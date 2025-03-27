@@ -10,10 +10,10 @@ The Netflix platform consists of five interconnected domains:
 
 ### 1. Subscription
 This domain handles all subscription-related processes:
-- **Subscription Plan**: Different tiers of service offerings
+- **Subscription Plan**: Different levels of service offerings
 - **Payment Gateway**: Processes subscription payments
-- **Account Renewal**: Manages subscription renewals
-- **Payment Cancellation**: Handles subscription cancellations and refunds
+- **Account Renewal**: Handles subscription renewals
+- **Payment Cancellation**: Manages subscription cancellation and refunds
 
 ### 2. User Management & Personalization
 This domain focuses on user identity and personalized experiences:
@@ -22,8 +22,8 @@ This domain focuses on user identity and personalized experiences:
 - **Email Authentication**: Verification and security
 - **Multi-Account Management**: Handles multiple profiles under one subscription
 - **Search for Content**: Enables users to find specific content
-- **Recommendation System**: Generates personalized content suggestions
-- **View History and Preference**: Tracks user viewing habits and preferences
+- **Recommendation System**: Offers customized content suggestions
+- **View History and Preference**: Tracks user view history and preferences
 
 ### 3. Streaming Technology & Infrastructure
 This domain manages the technical delivery of content:
@@ -38,7 +38,7 @@ This domain handles user assistance and community engagement:
 ### 5. Content Management
 This domain oversees the content library:
 - **Content Licensing**: Manages rights for streaming third-party content
-- **Netflix Original Production**: Handles Netflix-produced content
+- **Netflix Original Production**: Oversees Netflix-produced content
 - **Content Delivery Network Optimization**: Ensures efficient global content delivery
 
 ## Key Relationships
@@ -54,4 +54,4 @@ The domain model illustrates several important relationships:
 
 ## Link 
 
-[![Netflix Logo](https://online.visual-paradigm.com/share.jsp?id=333936313330352d31&email=02230302.cst@rub.edu.bt#diagram:workspace=bbjvhilc&proj=0&id=1)]
+[Netflix Domain Model](https://online.visual-paradigm.com/share.jsp?id=333936313330352d31&email=02230302.cst@rub.edu.bt#diagram:workspace=bbjvhilc&proj=0&id=1)
