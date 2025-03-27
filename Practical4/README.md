@@ -54,4 +54,4 @@ The domain model illustrates several important relationships:
 
 ## Link 
 
-[Netflix Domain Model](https://online.visual-paradigm.com/share.jsp?id=333936313330352d31&email=02230302.cst@rub.edu.bt#diagram:workspace=bbjvhilc&proj=0&id=1)
+[Netflix Domain Model](https://online.visual-paradigm.com/share.jsp?id=333936313330352d31)
